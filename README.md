@@ -1,1 +1,1 @@
-# Brain-Tumor-Detection
+This is my Machine Learning course project. Initially, I did the project with a Kaggle dataset, which resulted in very high accuracy.That was a basically binary classification project.Then we moved to the Figshare Brain MRI Dataset . And this is a multiclass  classification-type project.The final project for my course is multiclass classification which is named as CSE445_final_project
